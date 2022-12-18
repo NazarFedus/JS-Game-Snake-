@@ -1,0 +1,13 @@
+.canvas{
+     background-color: black;
+}
+.btn{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     cursor: pointer;
+     width: 100px;
+     height: auto;
+     background-color: cadetblue;
+     font-size: 25px;
+}
